@@ -21,7 +21,7 @@ ProyectoGrupal/
 └── Evidencias/        → Registros del proceso
 
 Estudiantes/
-└── [Carpeta por integrante con sus aportes individuales]
+└── [Carpetas representativas de los nombres de cada integrante]
 ```
 
 
