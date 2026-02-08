@@ -1,0 +1,1 @@
+Informes elaborados durante el transcurso del semestre, que recopilan las actividades desarrolladas en cada periodo académico, incluyendo avances del proyecto, análisis, modelado y resultados parciales.
