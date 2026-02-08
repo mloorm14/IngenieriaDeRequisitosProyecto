@@ -1,1 +1,1 @@
-
+Evidencias del trabajo realizado por el equipo durante el proceso de desarrollo, tales como entrevistas, reuniones, actividades de elicitación, validaciones con stakeholders, capturas y otros registros del proceso.
