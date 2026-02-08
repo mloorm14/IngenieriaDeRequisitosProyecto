@@ -1,28 +1,72 @@
-# Proyecto – Ingeniería de Requisitos
+# 📋 Proyecto – Ingeniería de Requisitos
 
 Repositorio grupal de la asignatura **Ingeniería de Requisitos**, destinado a la organización y almacenamiento de los avances del proyecto desarrollado durante el semestre.
 
 Este repositorio reúne los informes parciales, modelos del sistema y evidencias del proceso de levantamiento y análisis de requisitos.
 
-## Contenido
+---
 
-* Informes elaborados durante el semestre 
-* Diagramas UML y modelos del sistema
-* Evidencias del trabajo realizado por el equipo
-* Organización individual de aportes por estudiante
-
-## Estructura del repositorio
+## 📂 Estructura del Repositorio
 
 ```
-ProyectoGrupal/
+📦 Proyecto-IR/
 │
-├── Informes/          → Informes parciales del proyecto
-├── Diagramas_UML/     → Modelos y diagramas del sistema
-└── Evidencias/        → Registros del proceso
-
-Estudiantes/
-└── [Carpetas representativas de los nombres de cada integrante]
+├── 📁 ProyectoGrupal/
+│   ├── 📁 Informes/
+│   │   └── Informes y entregables presentados
+│   │
+│   ├── 📁 Diagramas UML/
+│   │   ├── 📁 Caso_de_uso/
+│   │   ├── 📁 Clases/
+│   │   └── 📁 Y demás
+│   │
+│   └── 📁 Evidencias/
+│       └── Registros del proceso
+│
+└── 📁 Estudiantes/
+    ├── 📁 Arias Moreira Maybelin/
+    ├── 📁 Loor Medranda Marlon/
+    └── 📁 Mariscal Cabrera Jaime/
 ```
 
+---
 
-Repositorio creado como evidencia del desarrollo progresivo del proyecto en el marco de la asignatura.
+## 📚 Contenido
+
+### 🔹 Informes
+Documentos parciales elaborados durante el semestre que registran el progreso del proyecto y las entregas solicitadas.
+
+### 🔹 Diagramas UML
+Modelos del sistema desarrollados para el análisis y diseño, incluyendo:
+- Diagramas de casos de uso
+- Diagramas de clases
+- Otros modelos relevantes al proyecto
+
+### 🔹 Evidencias
+Registros fotográficos y documentación del proceso de trabajo del equipo.
+
+
+---
+
+## 👥 Equipo de Desarrollo
+
+- **Arias Moreira Maybelin**
+- **Loor Medranda Marlon**
+- **Mariscal Cabrera Jaime**
+
+---
+
+## 🎯 Objetivo
+
+Desarrollar un proyecto completo de ingeniería de requisitos aplicando las metodologías y técnicas aprendidas en clase, documentando cada fase del proceso de manera organizada y profesional.
+
+---
+
+## 📌 Nota
+
+Este repositorio sirve como evidencia del desarrollo progresivo del proyecto en el marco de la asignatura de Ingeniería de Requisitos - 4to Semestre.
+
+---
+
+*🗓️ Última actualización: Febrero 2026*  
+*🏫 Universidad Técnica Estatal de Quevedo (UTEQ)*
